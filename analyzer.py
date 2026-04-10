@@ -270,6 +270,9 @@ class SaaSAnalyzer:
 
 
 def main():
+    from license_guard import verify_license, print_banner
+    verify_license()
+    print_banner("SaaS Security Posture Dashboard")
     try:
         sys.stdout.reconfigure(encoding="utf-8")
     except Exception:
