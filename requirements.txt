@@ -1,0 +1,1 @@
+# SaaS Security Posture Dashboard uses only Python 3.8+ stdlib.

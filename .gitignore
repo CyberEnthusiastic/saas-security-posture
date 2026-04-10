@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+reports/*.json
+reports/*.html
+!reports/.gitkeep
+data/audit_log.jsonl
