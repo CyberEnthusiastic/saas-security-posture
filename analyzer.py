@@ -11,7 +11,7 @@ Analyzes a company's SaaS inventory for:
 Input: JSON inventory of all SaaS tools (see data/saas_inventory.json)
 Output: JSON + interactive HTML dashboard with recommendations
 
-Author: Adithya Vasamsetti (CyberEnthusiastic)
+Author: Mohith Vasamsetti (CyberEnthusiastic)
 License: MIT
 """
 import argparse
